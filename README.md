@@ -1,0 +1,1 @@
+Basic implementation of bot for my discord server
